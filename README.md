@@ -69,6 +69,11 @@ When making a fresh install, use ninite to install all of your common programs i
 
 [View](https://ninite.com)
 
+### TreeSize
+Let's you easily visualize what is taking up space on your computer. This is useful when trying to free up room on your drives.
+
+[Download](https://www.jam-software.com/treesize_free)
+
 ### Windows 10 Debloater
 A utility that lets you remove all of the crap that comes pre-installed on Windows 10.
 
