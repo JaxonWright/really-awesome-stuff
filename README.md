@@ -22,6 +22,11 @@ This is a file explorer that is well-designed and gets the job done.
 
 ## Chrome Extensions
 
+### Grammerly
+Helps you become a better writer. This is beyond spellcheck, as it examines whole sentences.
+
+[Extension](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen)
+
 ### Pay by Privacy.com
 Privacy lets you create endless burner virtual credit cards that can be limited by total amount, monthly, yearly, daily, or vendor-specific transactions. 
 It is particularly useful to use as allowance for a kid in the 21st century or for those pesky "free trials"
