@@ -1,4 +1,4 @@
-# Really Awesone Stuff
+# Really Awesome Stuff
 A collection of useful tools that I have found that do various things
 
 ## Categories
