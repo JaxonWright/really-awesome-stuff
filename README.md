@@ -2,10 +2,10 @@
 A collection of useful tools that I have found that do various things
 
 ## Categories
-* Android Apps
-* Chrome Extensions
-* Image Manipulation
-* Windows Utilities
+* [Android Apps](#android-apps)
+* [Chrome Extensions](#chrome-extensions)
+* [Image Manipulation](#image-manipulation)
+* [Windows Utilities](#windows-utilities)
 
 ____
 ## Android Apps
