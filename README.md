@@ -69,6 +69,11 @@ This is essentially a web-based Photoshop clone that doesn't suck.
 
 ## Windows Utilities
 
+### Etcher
+A no-nonsense tool to write system images to a CD, flashdrive, or external HDD/SSD
+
+[Download](https://www.balena.io/etcher/)
+
 ### Ninite
 When making a fresh install, use ninite to install all of your common programs in one batch with no tricky add-on installs or prompts at all.
 
