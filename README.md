@@ -22,7 +22,7 @@ This is a file explorer that is well-designed and gets the job done.
 
 ## Chrome Extensions
 
-### Grammerly
+### Grammarly
 Helps you become a better writer. This is beyond spellcheck, as it examines whole sentences.
 
 [Extension](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen)
