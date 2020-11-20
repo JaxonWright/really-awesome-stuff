@@ -66,6 +66,16 @@ This is essentially a web-based Photoshop clone that doesn't suck.
 
 [View](https://www.photopea.com/)
 
+### Dataurl.app
+Turn any image file into a base64 dataURL for use in HTML or CSS
+
+[View](https://dataurl.app/)
+
+### Squoosh
+Simple image compression
+
+[View](https://squoosh.app/)
+
 
 ## Windows Utilities
 
