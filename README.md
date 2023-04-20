@@ -76,6 +76,11 @@ Simple image compression
 
 [View](https://squoosh.app/)
 
+### SVGOMG
+Takes SVG files and lets you compress/simplify them, and then get an SVG file or HTML SVG output
+
+[View](https://github.com/jakearchibald/svgomg)
+
 
 ## Windows Utilities
 
